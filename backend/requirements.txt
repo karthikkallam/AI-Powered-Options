@@ -1,0 +1,9 @@
+Flask
+flask-cors
+requests
+torch
+pandas
+sqlalchemy
+python-dotenv
+scikit-learn
+matplotlib
